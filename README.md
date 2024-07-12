@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on no
 - 📫 How to reach me WitherBro737 on discord
-- 😄 Pronouns: what
 - ⚡ Fun fact: this is literally for a summer school project, most likely not going to be using this in the future
 
 <!---
